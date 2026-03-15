@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    padding:100px  250px 10px ;
+    list-style: none;
+}
+li{
+    background-color: azure;
+}
